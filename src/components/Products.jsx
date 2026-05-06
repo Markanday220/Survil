@@ -9,7 +9,7 @@ const Products = () => {
       title: 'CCTV Camera Systems',
       description: '4K Ultra HD cameras with night vision, weatherproof housing, and wide-angle coverage for complete property surveillance',
       features: ['4K Resolution', 'Night Vision', 'Weatherproof', 'Wide Angle'],
-      image: '/Public/camera.png',
+      image: '/camera.png',
       highlights: ['Indoor & Outdoor', 'Motion Detection', 'Remote Access'],
       useContain: true,
     },

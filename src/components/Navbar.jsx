@@ -39,7 +39,7 @@ const Navbar = ({ onBookDemo }) => {
             whileTap={{ scale: 0.95 }}
           >
             <img 
-              src="/survill-logo.png" 
+              src="/logo.png" 
               alt="Survill Logo" 
               className="h-10 w-auto object-contain"
             />

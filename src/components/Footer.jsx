@@ -51,7 +51,7 @@ const Footer = () => {
               className="mb-6"
             >
               <img 
-                src="/Public/survill-logo.png" 
+                src="/logo.png" 
                 alt="Survill Logo" 
                 className="h-12 w-auto object-contain mb-4"
               />
